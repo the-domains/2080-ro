@@ -1,0 +1,28 @@
+name: 2080.ro
+favicon: null
+layout_spectrum: 0.8723389566875994
+typography_spectrum: 0.36624752450734377
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5734307435341179
+  lightness: 0.9587990760337561
+  saturation: 0.06953117251396179
+  rhythmicContrast: 0.6921379058621824
+purpose: []
